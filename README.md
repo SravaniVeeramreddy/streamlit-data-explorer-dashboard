@@ -124,18 +124,6 @@ The project uses a sample COVID-19 dataset containing the following columns:
 
 The Data Explorer also allows users to upload their own CSV and Excel datasets.
 
-## 📸 Application Screenshots
-
-Add screenshots of your application here after running it.
-
-Example:
-
-```markdown
-![Data Explorer](screenshots/data-explorer.png)
-
-![COVID Dashboard](screenshots/covid-dashboard.png)
-```
-
 ## 🎯 Learning Outcomes
 
 Through this project, I practised:
